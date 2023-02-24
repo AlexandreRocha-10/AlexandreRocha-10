@@ -30,11 +30,14 @@
 
 ## My Social Media
 <div>
-  <a style="margin-right: 15px;" href="mailto:alexandre.e.rocha@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="./images/gmail.png" />
+  <a href="https://github.com/AlexandreRocha-10" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="50px" height="50px">
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/alexandrerocha10/" target="_blank">
-    <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
+  <a href="https://www.instagram.com/oalexandre_rocha/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="50px" height="50px">
+  </a> 
+  <a href="https://www.linkedin.com/in/alexandrerocha10/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px">
   </a>
 </div>
 
@@ -43,13 +46,13 @@
 <tr><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCoruja&show_icons=true&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreRocha-10&show_icons=true&theme=blue-green" />
   </a>
 
 </td><td>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCoruja&layout=compact&theme=blue-green" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRocha-10&layout=compact&theme=blue-green" />
   </a>
 
 </td></tr>
