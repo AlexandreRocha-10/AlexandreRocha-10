@@ -11,8 +11,9 @@
   <li>🚀 Regarding the <strong>frontend</strong>, I learned to develop projects using HTML, CSS, and vanilla <strong>JavaScript</strong>, and then moved on to <strong>React</strong>, and I really liked how we can reuse components and keep the code clean. I also got to know better the <strong>Redux</strong>, <strong>Context API</strong>, and <strong>Hooks</strong> tools.</li>
   <li>🌍 A hobby that I have always had is studying history, especially about <strong>wars and great civilizations</strong> of the past. Anything related to this always fascinates me, such as books, movies and games.</li>
   <li>🎮 I have been passionate about <strong>Counter Strike</strong> forever, so if you want company to play, you can call me.</li>
-  <li>🫶 My E-Mail: alexandre.e.rocha@gmail.com</li>
+  <li>🫶 My E-Mail: alexandre.e.rocha@gmail.com and my portfolio: https://alexandrerocha.vercel.app/ </li>
 </ul>
+
 
 ## Languages and Tools:
 <div style="display: inline_block"><br>
