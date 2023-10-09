@@ -8,7 +8,8 @@
 
 <ul align="justify">
   <li>🖥️ Currently, I am studying to become a full stack web developer at <strong>Trybe</strong>.</li>
-  <li>🚀 Regarding the <strong>frontend</strong>, I learned to develop projects using HTML, CSS, and vanilla <strong>JavaScript</strong>, and then moved on to <strong>React</strong>, and I really liked how we can reuse components and keep the code clean. I also got to know better the <strong>Redux</strong>, <strong>Context API</strong>, and <strong>Hooks</strong> tools.</li>
+  <li>🚀 In the realm of <strong>frontend development</strong>, I embarked on my journey with HTML, CSS, and plain <strong>JavaScript</strong>. As I progressed, I delved into the world of <strong>React</strong>, appreciating the power of reusable components and maintaining clean code. My exploration extended to mastering tools such as <strong>Redux</strong>, <strong>Context API</strong>, and various <strong>Hooks</strong>.</li>
+  <li>🌟 Beyond the frontend, my learning path expanded to include <strong>TypeScript</strong> and <strong>Node.js</strong>. I explored a multitude of frameworks and honed my skills with technologies like <strong>Next.js</strong> and <strong>Tailwind CSS</strong>. Additionally, I delved into the world of <strong>Python</strong> and <strong>MongoDB</strong>, broadening my horizons even further.</li>
   <li>🌍 A hobby that I have always had is studying history, especially about <strong>wars and great civilizations</strong> of the past. Anything related to this always fascinates me, such as books, movies and games.</li>
   <li>🎮 I have been passionate about <strong>Counter Strike</strong> forever, so if you want company to play, you can call me.</li>
   <li>🫶 My E-Mail: alexandre.e.rocha@gmail.com and my portfolio: https://alexandrerocha.vercel.app/ </li>
